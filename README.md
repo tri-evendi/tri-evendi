@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/tri-evendi](https://bit.ly/tri-evendi)
 
+- 📝 I regularly write articles on [https://medium.com/@tri-evendi](https://medium.com/@tri-evendi)
+
 - 📫 How to reach me **evendyx@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/tri-evendi](https://bit.ly/tri-evendi)
