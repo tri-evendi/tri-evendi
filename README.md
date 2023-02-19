@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tri Evendi</h1>
-<h3 align="center">I am a versatile programmer and analyst with a passion for learning and continuously expanding my skill set. My career journey began as a graphic designer, but I have since evolved into a proficient web and mobile programmer, as well as a skilled business intelligence analyst and data analyst. With my adaptability and positive attitude, I am confident in my ability to tackle any challenge with determination and hard work.</h3>
+<p align="center">I am a versatile programmer and analyst with a passion for learning and continuously expanding my skill set. My career journey began as a graphic designer, but I have since evolved into a proficient web and mobile programmer, as well as a skilled business intelligence analyst and data analyst. With my adaptability and positive attitude, I am confident in my ability to tackle any challenge with determination and hard work.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tri-evendi" alt="tri-evendi" /></a> </p>
 
